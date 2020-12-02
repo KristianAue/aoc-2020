@@ -18,3 +18,5 @@ Answer to part ?: ?
 ```
 
 Please note that inputs may need to be changed based on your user account.
+
+Some of the puzzles might use external packages installed with quicklisp. These packages are stored in the quicklisp folder, and might be needed to run specific puzzles. If a puzzle is requiring quicklisp, it will tell you so in the readme file of that day. I know this is not an ideal way to do this - and I will look into ways to make this work better in the future.
