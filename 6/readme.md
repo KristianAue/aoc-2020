@@ -1,6 +1,6 @@
 # Advent of Code - 6th of December 2020
 
-The puzzles for this day are split into 1.lisp and 2.lisp. Configuration values (the boarding passes in use) are located in the file `forms.txt`. Simply copy your input from advent of code, and paste it in that file to run the puzzles.
+The puzzles for this day are split into 1.lisp and 2.lisp. Configuration values (the forms in use) are located in the file `forms.txt`. Simply copy your input from advent of code, and paste it in that file to run the puzzles.
 ```bash
 clisp 1.lisp
 clisp 2.lisp
